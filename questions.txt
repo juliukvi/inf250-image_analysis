@@ -1,0 +1,7 @@
+exercise 1a:
+	find min max values for each color ImageJ
+	imageJ loads 32 bit rgb
+	
+
+exercise 2:
+	Did not see any difference between subtraction of pgm - jpeg and pgm - tif
