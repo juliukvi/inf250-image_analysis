@@ -2,7 +2,7 @@
 """
 Created on Fri Sep 25 00:33:09 2020.
 
-@author: julius kviman
+@author: juliukvi
 """
 
 import skimage.io
